@@ -1,0 +1,7 @@
+{
+  "name": "Moza Al-Oloum (Science Banana)",
+  "description": "An interactive Egyptian science platform featuring Moza, the sassy banana scientist, explaining the world in funny Egyptian slang.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
